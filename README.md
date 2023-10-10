@@ -1,0 +1,2 @@
+# estudopc
+pensamento computacional
